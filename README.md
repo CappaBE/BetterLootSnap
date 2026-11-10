@@ -102,4 +102,4 @@ These are used by the UI buttons and are not meant to be run manually: `blui.set
 
 ## License
 
-Add the license of your choice here (for example MIT).
+This plugin is open source 
